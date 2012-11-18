@@ -1,3 +1,3 @@
-oETCS-PROTOTYE t
+oETCS-PROTOTYPE
 ==========
 
